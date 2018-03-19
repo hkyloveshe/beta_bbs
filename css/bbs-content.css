@@ -1,0 +1,44 @@
+ul li{list-style: none;}
+.content{width:90%;margin-left: 5%;margin-right: 5%;margin-top: 20px;}
+.post_message{
+    border-left: 1px solid #C2D5E3;border-right: 1px solid #C2D5E3;
+    border-bottom: 4px solid #C2D5E3;
+}
+.leftName{width: 18%;text-align: center;padding-top: 15px;background: #e5edf2}
+.userAvatar{padding-top: 10px;padding-bottom: 5px;}
+.userAvatar img{border:1px solid #cccccc;padding: 5px 5px 8px;width:120px;background:#fff;}
+.leftName  p{margin-top: 0;}
+.leftName  p.postColor{color:#000;margin-top: 3px;}
+.leftName  p.unit{
+    color:rgb(102, 102, 255);font-size:14px;
+    margin-top: 7px;margin-bottom: 15px;
+}
+.color_blue{color:#2d64b3;}
+.rightMessage{width:82%;}
+.questionInfo{margin: 0 20px 8px 20px;overflow: auto;border-bottom:1px dashed #cdcdcd;}
+.fbsj{padding:10px 0;}
+.questionContent{margin-top: 10px;margin-left: 20px;margin-right: 20px;height:178px;overflow: hidden;}
+
+.ltnrarea{
+    border-top:1px solid #cdcdcd;border-bottom:4px solid #cdcdcd;border-left:1px solid #cdcdcd;border-right:1px solid #cdcdcd;}
+.ltnrarea .fl{width: 18%;text-align: center;background: #e5edf2;}
+.ltnrarea .fr{width:82%;}
+.ltnrarea .ltnrxx{padding: 11px 0;font-size: 14px;color:#999;}
+.ltnrarea .ltnrbt{padding: 10px 0 10px 20px;font-size:16px;font-weight:bold;}
+
+
+.wt_func{width:100%;padding: 10px 2px;margin-bottom: 10px;}
+.wt_func input{height: 35px;width: 88px; border-radius: 2px; text-align: center;color:#fff;
+    padding: 0 6px;cursor: pointer;font-size:14px;
+    margin: 0 8px 0 0;}
+.wt_func  input.primary{background-color:rgb(30, 159, 255);}
+.wt_func  input.primary:hover{background-color:rgb(87, 178, 245)}
+.wt_func  input.warning{background-color:rgb(255,87,34)}
+.wt_func  input.warning:hover{background-color:rgb(253, 146, 112)}
+.wt_func  input.success{background-color:#16A085}
+.wt_func  input.success:hover{background-color:#1ABC9C;}
+
+
+.fanhui{margin-left: 2px;margin-bottom: 10px;padding-top: 5px;}
+.fanhui a{background: url("../images/LEFT.png") #1AA094 no-repeat left center ;color:#fff;padding-left: 28px;padding-right: 10px;padding-top: 6px;padding-bottom: 7px;border-radius: 4px;}
+.fanhui a:hover{background-color: #21d0c0 ;}

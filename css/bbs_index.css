@@ -1,0 +1,229 @@
+.ml5{margin-left: 5px;}
+.content{width:100%;margin: 10px auto 0;}
+
+.unit{padding: 20px 0;border-bottom: 1px solid #e5e5e5;margin-left: 10px;margin-right: 10px;}
+.spec{font-weight: bold;font-size: 1.25em;padding: 0 0 10px;}
+.tj{font-size:0.75em;}
+.fontBolder{font-weight: bold;margin-right: 10px;}
+.specInfo{
+    font-size: 0.75em;color:#666666;margin-top: 5px;}
+
+.wtList{border-top:1px solid #e5e5e5;}
+.wtList{margin-left: 10px;margin-right: 10px;}
+.wtList ul li.header{background: #f2f2f2;border-bottom: 1px solid #e5e5e5;}
+.wtList ul li.header div.userAvatar{font-size:14px;}
+.wtList ul li.header p{color:#000;}
+.wtList ul li{border-bottom:1px solid #e5e5e5;}
+.wtList ul li:hover{background: #f2f2f2;}
+.wt_func{width:100%;padding: 10px 2px;}
+.wt_func input{height: 30px;width: 88px; border-radius: 2px; text-align: center;color:#fff;
+    padding: 0 6px;cursor: pointer;font-size:14px;
+    margin: 0 8px;}
+.wt_func  input.primary{background-color:rgb(30, 159, 255);}
+.wt_func  input.primary:hover{background-color:rgb(87, 178, 245)}
+.wt_func  input.warning{background-color:rgb(255,87,34)}
+.wt_func  input.warning:hover{background-color:rgb(253, 146, 112)}
+.wt_func  input.success{background-color:#16A085}
+.wt_func  input.success:hover{background-color:#1ABC9C;}
+
+
+
+
+#demo1{padding:0 20px;}
+.leftCon{width: 65%;padding: 5px 0;}
+.userAvatar img{vertical-align: middle;margin-top: 2px;}
+.wtContainer{margin-left: 10px;font-size: 14px;}
+.color_blue{color:#2d64b3;}
+.color_blue a:hover{text-decoration: underline;color:#2B2E37;}
+.color_gray{color:#666666;}
+.fbInfo{font-size:0.7em;margin-top: 5px;}
+.fbInfo span{margin-left: 5px;}
+.leftCon div.userAvatar{padding-left: 20px;}
+.rightCon{width:35%;}
+.ll{text-align: center;padding: 8px 0;color:#999;font-size: 0.75em;width:32.9%;}
+.hf{text-align: center;padding: 8px 0;color:#999;font-size: 0.75em;width:32.9%;}
+
+.fabiao{background: #EBECEC;padding: 10px 0;display: none;}
+.fabiaoTitle{margin-left: 20px;padding-top: 20px;}
+.fabiaoTitle input{background: #ffffff;width: 70%;height:35px;padding: 0 9px;font-size: 0.875em;color:#333;    border: 1px solid #9a9a9a;
+    border-right-color: #ccc;
+    border-bottom-color: #ccc;}
+.fabiaoContent{margin-top: 10px;margin-left: 20px;}
+.fabiaoContent textarea{background: #ffffff;width: 70%;min-height: 150px;height:150px;padding: 10px 9px;    border: 1px solid #ccc;
+    border-left-color: #9a9a9a;
+    border-top-color: #9a9a9a;}
+.fabiaoButton{margin-top: 10px;margin-left: 20px;}
+.fabiaoButton button{
+    font-size: 0.875em;
+    width: 60px;height:30px;
+    background: #2a7dfa;
+    border-bottom-color: #2663bf;
+    color: #fff;}
+
+.topContent{padding: 10px 0;}
+
+.search-box {
+    position: relative;
+    width: 380px;
+    margin-right: 20px;
+    display: inline;
+}
+.search-txt {
+    padding: 10px 15px;
+    margin: 0;
+    width: 350px;
+    font-size: 12px;
+    color: #999;
+    border: 2px solid #dfe0e0;
+    background: #fff;
+    outline: 0;
+}
+.submit-btn {
+    position: absolute;
+    right: 0;
+    top: 3px;
+    height: 33px;
+    width: 30px;
+    border: 0;
+    text-indent: -9999em;
+    overflow: hidden;
+    cursor: pointer;
+    outline: 0;
+    background: #fff url(../images/sprite.png) no-repeat 5px 13px;
+}
+
+.user-account-wrap .user-info {
+    text-align: center;
+}
+
+.user-account-wrap {
+    position: relative;
+    padding: 3px 15px;
+    height: 33px;
+    max-width: 260px;
+    background: #fafafa;
+    border: 1px solid #dfdfdf;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+.user-info div {
+    overflow: hidden;
+    height: 33px;
+}
+.user-account-wrap .user-info .username {
+    width: 75px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: inline-block;
+    line-height: 33px;
+    padding: 0 12px;
+    font-size: 14px;
+    color: #00a2ca;
+}
+.user-account-wrap .user-info .aisle {
+    line-height: 33px;
+    padding-right: 15px;
+    font-size: 0.75em;
+
+}
+
+.user-account-wrap .user-info img {
+    vertical-align: top;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    width: 33px;
+    height: 33px;
+    display: inline-block;
+}
+
+/***********这里是首页的代码****************/
+.fl{float:left;}
+.fr{float:right;}
+.index_content{width:100%;margin: 10px auto 0;}
+.index_announcement_area{padding:10px;}
+.index_module_area{padding:10px;}
+
+.index_announcement_area .newest{width:30%;overflow: hidden;height:217px;border-bottom: 3px solid #1e9fff;border-radius:4px;}
+.index_announcement_area .newest .newest_title{font-size:1.2em;color:#fff;text-align: left;border-bottom: 1px solid #ccc;text-indent: 15px;background: #1E9FFF;border-radius:4px;height: 42px;line-height: 42px;}
+.index_announcement_area .newest .newest_content{text-align: left;white-space:normal;word-wrap:break-word;padding-top: 15px;padding-bottom: 10px;text-overflow:ellipsis;padding-left: 10px;padding-right: 10px;height:150px;overflow: hidden;background: #f8f8f8;font-size: 14px;
+
+}
+.index_announcement_area .announcement_function input{
+    height: 30px;width: 88px; border-radius: 2px; text-align: center;color:#fff;
+    padding: 0 6px;cursor: pointer;
+    margin: 0 8px;
+}
+.index_announcement_area .announcement_function input.primary{background-color:rgb(30, 159, 255);}
+.index_announcement_area .announcement_function input.primary:hover{background-color:rgb(87, 178, 245)}
+.index_announcement_area .announcement_function input.warning{background-color:rgb(255,87,34)}
+.index_announcement_area .announcement_function input.warning:hover{background-color:rgb(253, 146, 112)}
+
+.index_announcement_area .new{width:68%;height:216px;background: #f8f8f8;border-top:1px solid #efefef;border-bottom:3px solid #1E9FFF;border-radius: 4px;
+    }
+.index_announcement_area .new ul{list-style: none;width:95%;margin: 0 auto;height:160px;padding-top: 15px;overflow: hidden;font-size:14px;color:#666;}
+.index_announcement_area .new ul li{padding:4px 0;background: url(../images/dot.gif) no-repeat 0 12px;text-indent: 16px;white-space:nowrap;word-wrap:break-word;text-overflow:ellipsis;}
+.index_announcement_area .new ul li a{color:rgb(102,102,102)}
+.index_announcement_area .new ul li a:hover{
+    color:#1e9fff;text-decoration: underline;
+}
+
+.index_module_area div.module_title {
+    padding-left: 15px;
+    height: 42px;
+    line-height: 42px;
+    border-bottom:1px solid #ccc;
+    font-size: 1.2em;
+    font-weight: normal;
+    color: #ffffff;
+    background: #1E9FFF;
+    border-radius:4px;
+
+}
+.index_module_area div.module_content{
+
+}
+div.module_content > ul{
+    padding:10px;
+    list-style: none;border-left:1px solid #ccc;border-right: 1px solid #cccccc;
+
+}
+div.module_content > ul > li{
+    width:44.9%;float:left;
+    border-bottom: 1px dashed #cccccc;
+
+    padding:30px 0 30px 5%;
+}
+.index_module_area div.module_content p.title a:hover{color:#1e9fff;text-decoration: underline;}
+.index_module_area div.module_content span{color:#999;font-size:14px;margin-right: 4px;}
+.index_module_area div.module_content p.detail{color:#999;font-size:14px;}
+
+.index_module_area div.module_content ul.second li{
+
+    border-bottom: none;
+
+}
+.index_module_area div.module_content ul.second{
+border-bottom: 1px solid #cccccc;}
+
+.fanhui{margin-left: 10px;margin-bottom: 10px;padding-top: 5px;}
+.fanhui a{background: url("../images/LEFT.png") #1AA094 no-repeat left center ;color:#fff;padding-left: 28px;padding-right: 10px;padding-top: 6px;padding-bottom: 7px;border-radius: 4px;}
+.fanhui a:hover{background-color: #21d0c0 ;}
+
+
+.edit_module  ul{list-style: none;width:100%;margin: 0 auto;height:160px;padding-top: 5px;overflow: hidden;font-size:14px;color:#666;}
+.edit_module  ul li{padding:2px 0;background: url(../images/dot.gif) no-repeat 4px 12px;text-indent: 16px;white-space:nowrap;word-wrap:break-word;text-overflow:ellipsis;
+      }
+.edit_module  ul li a{color:rgb(102,102,102)}
+.edit_module  ul li a:hover{
+    color:#1e9fff;text-decoration: underline;
+}
+div.edit_module p{
+    padding-top: 5px;padding-left:3px;
+}
+div.edit_module p > a{
+    font-size: 18px;
+    font-weight: bold;
+}

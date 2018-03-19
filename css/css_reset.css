@@ -1,0 +1,33 @@
+* {
+    background-color: transparent;
+    border: 0 none;
+    margin: 0;
+    padding: 0;
+    zoom:1;
+}
+
+body {
+    font-family: "Hiragino Sans GB", "Microsoft YaHei", tahoma, arial, simsun, \5fae\8f6f\96c5\9ed1, \5b8b\4f53;
+    background:#ffffff;
+    font-size: 16px;
+}
+a {
+    color: #000;
+    text-decoration: none;
+}
+a:hover {
+    color: #000;
+    text-decoration: none;
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+.center{margin:0 auto;}
+.clear {clear: both;}
+* html .clearfix {height: 1%;}
+.clearfix {display: inline-block;}
+.clearfix:after {content: ".";display: block;height: 0;clear: both;visibility: hidden;}
+.clearfix {display: block;}
